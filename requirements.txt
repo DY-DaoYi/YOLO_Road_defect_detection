@@ -1,0 +1,9 @@
+ultralytics
+streamlit
+pandas
+requests
+tqdm
+reportlab
+opencv-python-headless
+Pillow
+openpyxl
