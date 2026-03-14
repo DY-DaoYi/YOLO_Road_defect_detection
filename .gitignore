@@ -31,9 +31,14 @@ ENV/
 env.bak/
 venv.bak/
 
+# OS
+.DS_Store
+Thumbs.db
+
 # IDE
 .idea/
 .vscode/
+.trae/
 *.swp
 *.swo
 
@@ -45,3 +50,5 @@ training/
 *.ndjson
 *.log
 runs/
+training_summary_*.json
+*.zip
