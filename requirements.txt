@@ -9,3 +9,4 @@ Pillow==11.3.0
 seaborn==0.13.2
 matplotlib==3.10.8
 moviepy==2.2.1
+
