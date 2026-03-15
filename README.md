@@ -19,7 +19,7 @@
 > 3.  **（赠品）数据集**：本项目使用 [Ultralytics Project Explorer](https://platform.ultralytics.com/embed/projectexplorer/datasets/project1) 的开源数据集。
 >     *   *说明：数据集本身是免费开源的。但由于国内网络环境下载困难，我在资源包中免费提供了已整理好的数据集压缩包，方便大家直接使用。*
 > 
-> **📥 立即获取资源包：** [🍞 面包多 (Mianbaoduo)](YOUR_MIANBAODUO_LINK) | [🐟 闲鱼 (Xianyu)](YOUR_XIANYU_LINK)
+> **📥 立即获取资源包：** [🐟 闲鱼 (Xianyu)](https://m.tb.cn/h.i4vrZc8?tk=IiuIUxur71G)
 
 ---
 
