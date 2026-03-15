@@ -580,4 +580,4 @@ with tab4:
 
 # 页脚
 st.sidebar.markdown("---")
-st.sidebar.info("Developed by YourName for Graduation Project")
+# st.sidebar.info("Developed by YourName for Graduation Project")
