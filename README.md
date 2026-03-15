@@ -184,7 +184,7 @@ YOLO_Road_defect_detection/
 
 *   **联系方式**:
     *   **微信**: `DY_DaoYi`
-    *   **B站 / 抖音 / 小红书**: 搜索 **道易AI** (关注我的个人主页，获取最新教程)
+    *   **B站 / 抖音 / 小红书**: 搜索 **道易AI** (关注我的个人主页，获取最新消息)
         *   [📺 Bilibili 主页](YOUR_BILIBILI_LINK)
         *   [🎵 抖音主页](YOUR_DOUYIN_LINK)
         *   [📕 小红书主页](YOUR_XIAOHONGSHU_LINK)
