@@ -42,7 +42,7 @@
 >
 > | 哔哩哔哩 (Bilibili) | 抖音 (Douyin) | 小红书 (Xiaohongshu) |
 > | :---: | :---: | :---: |
-> | [![Bilibili](https://img.shields.io/badge/Bilibili-演示视频-pink?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/YOUR_UID) | [![Douyin](https://img.shields.io/badge/抖音-演示视频-black?style=for-the-badge&logo=tiktok)](https://www.douyin.com/user/YOUR_UID) | [![Xiaohongshu](https://img.shields.io/badge/小红书-演示视频-red?style=for-the-badge&logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/YOUR_UID) |
+> | [![Bilibili](https://img.shields.io/badge/Bilibili-演示视频-pink?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1Gkw3z3Egq/) | [![Douyin](https://img.shields.io/badge/抖音-演示视频-black?style=for-the-badge&logo=tiktok)](https://v.douyin.com/bmOeBv9zBbk) | [![Xiaohongshu](https://img.shields.io/badge/小红书-演示视频-red?style=for-the-badge&logo=xiaohongshu)](https://www.xiaohongshu.com/discovery/item/69b6cd5f000000002102cb74?source=webshare&xhsshare=pc_web&xsec_token=YBF_T3r11gcxZGQjc3tjRn87cBooDBS-SJpS7Izy7sNI8=&xsec_source=pc_share) |
 >
 
 ---
@@ -151,7 +151,7 @@ YOLO_Road_defect_detection/
 > 2.  **全系列模型权重与训练日志**：包含 **YOLOv8 / YOLO11 / YOLO26** 三个系列的 `best.pt` 模型文件，以及完整的训练日志、Loss 曲线图、mAP 指标图和混淆矩阵等评估图表，直接用于论文插图。
 > 3.  **（赠品）数据集**：整理好的 Ultralytics 开源数据集压缩包。
 >
-> **📥 立即获取资源包：** [🍞 面包多 (Mianbaoduo)](YOUR_MIANBAODUO_LINK) | [🐟 闲鱼 (Xianyu)](YOUR_XIANYU_LINK)
+> **📥 立即获取资源包：** [🐟 闲鱼 (Xianyu)](https://m.tb.cn/h.i4vrZc8?tk=IiuIUxur71G)
 
 ---
 
@@ -185,6 +185,6 @@ YOLO_Road_defect_detection/
 *   **联系方式**:
     *   **微信**: `DY_DaoYi`
     *   **B站 / 抖音 / 小红书**: 搜索 **道易AI** (关注我的个人主页，获取最新消息)
-        *   [📺 Bilibili 主页](YOUR_BILIBILI_LINK)
-        *   [🎵 抖音主页](YOUR_DOUYIN_LINK)
-        *   [📕 小红书主页](YOUR_XIAOHONGSHU_LINK)
+        *   [📺 Bilibili 主页](https://space.bilibili.com/476449751)
+        *   [🎵 抖音主页](https://v.douyin.com/_lCSbZ57T6o/)
+        *   [📕 小红书主页](https://xhslink.com/m/9d9qHFQbg0w)
