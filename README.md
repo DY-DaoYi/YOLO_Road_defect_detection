@@ -58,6 +58,14 @@
     *   **打开终端 (Important)**:
         *   **方法 A (推荐)**: 进入本项目文件夹，在地址栏输入 `cmd` 并回车，即可直接在当前目录下打开终端。
         *   **方法 B**: 打开终端后，使用 `cd` 命令跳转到项目目录（例如：`cd D:\毕设\YOLO_Road_defect_detection`）。
+    *   **配置国内镜像源 (推荐)**:
+        如果你在国内网络环境下，建议配置清华源以加速下载：
+        ```bash
+        conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+        conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+        conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+        conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+        ```
     *   **创建并激活环境**:
         ```bash
         conda create -n task1 python=3.11.15 -y
@@ -83,7 +91,7 @@
 2.  **安装依赖**
     下载本仓库代码，并安装必要的第三方库：
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn
     ```
 
 3.  **运行系统**
