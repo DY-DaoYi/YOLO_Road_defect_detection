@@ -154,6 +154,28 @@ YOLO_Road_defect_detection/
 
 ---
 
+## 📊 数据集信息 (Dataset Information)
+
+本项目使用 [Ultralytics Project Explorer](https://platform.ultralytics.com/embed/projectexplorer/datasets/project1) 开源的道路缺陷数据集，主要用于检测**路面坑洼（Pothole）**。
+
+### 类别信息
+
+| 缺陷类别 | 中文名 |
+|----------|--------|
+| Pothole | 路面坑洼 |
+
+### 图片数量
+
+| 数据集 | 图片数量 |
+|--------|----------|
+| 训练集 | 约 2,000+ 张 |
+| 验证集 | 约 400+ 张 |
+| 测试集 | 约 200+ 张 |
+
+> **💡 说明**：数据集本身是免费开源的。但由于国内网络环境下载困难，资源包中免费提供了已整理好的数据集压缩包，方便大家直接使用。
+
+---
+
 ## 💰 训练成本核算 (Training Cost Analysis)
 
 以下是基于国内主流 GPU 云服务商（如 AutoDL）的成本估算逻辑：
