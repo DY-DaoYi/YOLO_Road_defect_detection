@@ -20,7 +20,8 @@
 >     *   *说明：数据集本身是免费开源的。但由于国内网络环境下载困难，我在资源包中免费提供了已整理好的数据集压缩包，方便大家直接使用。*
 > 
 > **📥 立即获取资源包：** [🍞 面包多 (Mianbaoduo 9折)](https://mbd.pub/o/bread/YZWckpdraQ==) | [🐟 闲鱼 (Xianyu)](https://m.tb.cn/h.iS4cUR1?tk=8xj150roRtA)
-
+> 
+> （推荐使用面包多，9折优惠且自动发货）
 ---
 
 ## ✨ 核心功能亮点 (Features)
@@ -197,6 +198,8 @@ YOLO_Road_defect_detection/
 > 3.  **（赠品）数据集**：整理好的 Ultralytics 开源数据集压缩包。
 >
 > **📥 立即获取资源包：** [🍞 面包多 (Mianbaoduo 9折)](https://mbd.pub/o/bread/YZWckpdraQ==) | [🐟 闲鱼 (Xianyu)](https://m.tb.cn/h.iS4cUR1?tk=8xj150roRtA)
+> 
+> （推荐使用面包多，9折优惠且自动发货）
 
 ---
 
